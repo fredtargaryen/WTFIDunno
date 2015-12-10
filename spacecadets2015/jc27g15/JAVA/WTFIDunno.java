@@ -1,4 +1,4 @@
-package jc27g15;
+package spacecadets2015.jc27g15;
 import robocode.*;
 import java.awt.Color;
 import java.util.Random;
